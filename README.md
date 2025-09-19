@@ -36,6 +36,7 @@ Key Questions:
 8. How Countries vary by revenue?
 
 Walkthrough of Key Visuals:
+
 Key KPIs (Top Right) Total number of customers: 51,000 Customers
 Slicers (Top Centre) of Year, Region & Category
 Profit by Category & Sub-category (Stacked column chart) stacked column chart ranks category & sub-categories like Copiers/Technology, Phones/Technology, Bookcases/Furniture by Profit of Superstore.
