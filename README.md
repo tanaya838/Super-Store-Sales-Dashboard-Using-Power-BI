@@ -21,6 +21,7 @@ Tools and technologies:
 •	Bookmarks & Navigation – for interactive page switching.
 
 Data Source:
+
 The dataset used for this dashboard is the Superstore Sales dataset, sourced from Kaggle. 
 It contains over 51,000 orders, covering 4 years of sales data (2011–2014) across multiple markets, regions, and customer segments. The dataset provides rich information on order details, customers, products, categories, shipping modes, sales, profit, and discounts.
 
