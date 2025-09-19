@@ -11,7 +11,7 @@ Tools and technologies:
 
 •	Created calculated columns and DAX measures (e.g., Profit Margin %, Sales Growth).
 
-3. Data Modelling
+2. Data Modelling
 
 •	Built relationships between tables for accurate analysis.
 
@@ -19,7 +19,7 @@ Tools and technologies:
 
 •	Defined key measures using DAX for KPIs like Sales, Profit, Orders, and Profit Margin vs Target.
 
-5. Dashboard Design & Visualization
+3. Dashboard Design & Visualization
    
 •	Added slicers (Region, Category, Year, Market) for interactivity.
 
@@ -27,7 +27,7 @@ Tools and technologies:
 
 •	Integrated navigation buttons for seamless movement between pages.
 
-7. Techniques Applied
+4. Techniques Applied
    
 •	DAX Expressions – for advanced calculations and KPIs.
 
