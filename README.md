@@ -52,4 +52,4 @@ The purpose of this dashboard is to provide a comprehensive analysis of Super St
 [Dashboard Preview]
 Dashboard : (https://github.com/tanaya838/Super-Store-Sales-Dashboard-Using-Power BI/blob/main/Super%20Store%20Sales%20Dashboard.gif)
 Dashboard Page 1 : (https://github.com/tanaya838/Super-Store-Sales-Dashboard-Using-Power-BI/blob/main/Page%201.gif)
-Dashboard Page 2 :
+Dashboard Page 2 : (https://github.com/tanaya838/Super-Store-Sales-Dashboard-Using-Power-BI/blob/main/Page%202.gif)
