@@ -50,6 +50,6 @@ Impact of Discount percentage on Profit margin (Stacked column chart) it shows h
 The purpose of this dashboard is to provide a comprehensive analysis of Super Store sales performance across different dimensions. It helps track overall sales, profit margins, and order volumes while comparing them against targets. The dashboard enables deeper insights into profitability by product categories, sub-categories, customer segments, and regions, highlighting top customers and their revenue contributions. It also evaluates shipping performance to understand delivery trends and their impact on sales. Additionally, the dashboard identifies high and low-performing markets and regions, effect/impact of discounts, empowering decision-makers to focus on growth opportunities and address areas of concern effectively.
 
 [Dashboard Preview]
-Dashboard Page 1:
-Dashboard Page 2:
-Dashboard Page 3:
+Dashboard : (https://github.com/tanaya838/Super-Store-Sales-Dashboard-Using-Power-BI/blob/main/Super%20Store%20Sales%20Dashboard.gif)
+Dashboard Page 1 : 
+Dashboard Page 2 :
